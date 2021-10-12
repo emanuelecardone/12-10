@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 100%;
+    height: 500px;
+    background-color: blue;
+    margin: auto;
+}
+
+.box{
+    width: 100%;
+    height: 100vh; /* con 50 vh/vw arrivo alla metà della pagina */
+}
+
+.box-1{
+    background-color: red;
+}
+
+.box-2{
+    background-color: aqua;
+}
